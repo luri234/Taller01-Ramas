@@ -28,7 +28,7 @@ Aquí se muestra un ejemplo del cambio realizado con el nombre del artista antes
 
 Aquí se muestra el cambio realiado dentro del orden de mas informacion en las canciones
 ### Antes
-![Captura del antes](img/image-2.png)
+![Captura del antes](img/image-2.jpg)
 
 ### Despues
 ![Captura del despues](img/image.png)
