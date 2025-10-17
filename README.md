@@ -1,15 +1,12 @@
 # Taller01-Ramas
-## Titulo
-<img src="titulo.png" alt="titulo_cambiado" width="300">
+## Resultado: Integrante $4$ - Angel Cedeño
 
-## Cambio en el orden de la lista.
-<img src = "image-1.png" width = "300">
-## Resultado: Integrante 3 - Valeria Gavela
+Aquí se muestra el cambio realiado dentro del orden de mas informacion en las canciones
+### Antes
+![Captura del antes](img/image-2.png)
 
-Aquí se muestra un ejemplo del cambio realizado con el nombre del artista antes de la canción.
-
-![Captura del cambio](img/cambiocancion.png)
+### Despues
+![Captura del despues](img/image.png)
 
 **Detalles del cambio:**
-- Se agregó el nombre del artista antes del nombre de la canción.
-- Se mantiene el formato original del listado de canciones.
+- Se cambió la ubicación de la información de la canción (Semanas en top y Posición en el Ranking)
