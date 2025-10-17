@@ -3,9 +3,16 @@
 ## Resultado: Líder - Mayra Lucas
 Creacion del repositorio y cambio de título 
 
-<img src="titulo.png" alt="titulo_cambiado" width="300">
+<img src="img/titulo.png" alt="titulo_cambiado" width="300">
 
 ## Resultado: Integrante 2 - Elkin Fuentes
+Cambio en el orden de la lista 
+
+<img src="img/image-1.png" alt="Cambio de orden" width="300">
+
+**Detalles del cambio**
+- Se pasó la lista de orden ascendente a descendente.
+
 ## Resultado: Integrante 3 - Valeria Gavela
 
 Aquí se muestra un ejemplo del cambio realizado con el nombre del artista antes de la canción.
