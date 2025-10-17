@@ -1,10 +1,11 @@
 # Taller01-Ramas
 
-## Resultado Líder - Mayra Lucas
+## Resultado: Líder - Mayra Lucas
 Creacion del repositorio y cambio de título 
 
 <img src="titulo.png" alt="titulo_cambiado" width="300">
 
+## Resultado: Integrante 2 - Elkin Fuentes
 ## Resultado: Integrante 3 - Valeria Gavela
 
 Aquí se muestra un ejemplo del cambio realizado con el nombre del artista antes de la canción.
