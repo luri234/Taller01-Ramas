@@ -38,7 +38,7 @@
       </VBox>
    </right>
    <top>
-      <Label text="--+ DS_Radio - Top 10 +--" BorderPane.alignment="CENTER">
+      <Label text="Radio XYZ Top 10" BorderPane.alignment="CENTER">
          <font>
             <Font name="System Bold" size="24.0" />
          </font>
